@@ -17,9 +17,8 @@
 <p align="center">
   <video src="Renders/Animation.mkv" type="video/x-matroska" controls>
   Your browser does not support the video tag.
-</video>Copied!   
+</video> 
 </p>
----
 
 ## Overview
 
