@@ -2,8 +2,6 @@
 
 # Minecraft Stone Structure
 
-<img src="https://skillicons.dev/icons?i=blender" height="80"/>
-
 ### Minecraft-inspired architectural structure created in Blender
 
 </div>
@@ -13,9 +11,14 @@
 ## Preview
 
 <p align="center">
-  <img src="renders/Main-render.png" width="800">
+  <img src="Renders/Main-Render.png" width="800">
 </p>
-
+<br>
+<p align="center">
+  <video src="Renders/Animation.mkv" type="video/x-matroska" controls>
+  Your browser does not support the video tag.
+</video>Copied!   
+</p>
 ---
 
 ## Overview
@@ -52,7 +55,7 @@ Minecraft-Stone-Structure/
 ├── renders/
 │   └── main-render.png
 └── blender/
-    └── scene.blend
+    └── minecraft.blend
 ```
 
 ---
@@ -61,7 +64,7 @@ Minecraft-Stone-Structure/
 
 | File            | Description            |
 | --------------- | ---------------------- |
-| scene.blend     | Blender source project |
+| minecraft.blend     | Blender source project |
 | main-render.png | Final rendered image   |
 
 ---
