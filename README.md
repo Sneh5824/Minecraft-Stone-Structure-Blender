@@ -13,7 +13,7 @@
 ## Preview
 
 <p align="center">
-  <img src="renders/main-render.png" width="800">
+  <img src="renders/Main-render.png" width="800">
 </p>
 
 ---
